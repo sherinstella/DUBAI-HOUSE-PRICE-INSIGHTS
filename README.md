@@ -5,7 +5,8 @@ Tools & Technologies:
 Power BI (Visualization)
 DAX (KPIs & aggregations)
 
-Dataset:
+Dataset:https://github.com/sherinstella/DUBAI-HOUSE-PRICE-INSIGHTS/blob/main/housing_price_dataset.csv
+
 
 Key Analysis:
 Price distribution across locations
@@ -31,3 +32,6 @@ Assists buyers in price comparison
 Supports real estate decision-making
 
 Screenshot:
+EXECUTIVE DASHBOARD:https://github.com/sherinstella/DUBAI-HOUSE-PRICE-INSIGHTS/blob/main/EXECUTIVE%20DASHBOARD.png
+DASHBOARD:https://github.com/sherinstella/DUBAI-HOUSE-PRICE-INSIGHTS/blob/main/DASHBOARD.png
+INSIGHTS:https://github.com/sherinstella/DUBAI-HOUSE-PRICE-INSIGHTS/blob/main/INSIGHTS%20SUMMARY.png
